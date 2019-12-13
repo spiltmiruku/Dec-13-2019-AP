@@ -1,0 +1,21 @@
+button {
+	border: none;
+	width: 50px;
+	height: 30px;
+	margin: .8em;
+	border-radius: 3px;
+}
+button:active {
+  position: relative;
+  top: 2px;
+  box-shadow: none;
+}
+
+.add {
+	background: #2c772c;
+	box-shadow: 0px 3px 0 #164016;
+}
+.minus {
+	background: #e83030;
+	box-shadow: 0px 3px 0 #8c1f1f;
+}
